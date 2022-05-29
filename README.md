@@ -1,7 +1,11 @@
 # 🛒Snap&Shop  <img src=https://user-images.githubusercontent.com/74983536/170835268-67b071bb-816b-4581-80e6-f8f8371c860c.png width=350 align='right'>
 
 Enhance shopping experience with Visual Search.<br>
-You can find the app hosted [here](https://share.streamlit.io/sayantanideb/snap-shop/main.py)! 
+
+### You can find the app:
+
+##### [Hosted here](https://share.streamlit.io/sayantanideb01/snapshop/main.py)
+##### [Video Demo](https://youtu.be/jryOa4UpZ1E)
 
 ## 💡Motivation 
 
@@ -51,6 +55,11 @@ You can find the app hosted [here](https://share.streamlit.io/sayantanideb/snap-
 |----------|----------|
 | ![Desktop-UI-demonstration](https://user-images.githubusercontent.com/74983536/170837922-203d8292-cdf9-433f-9cad-171b87f3c6ca.gif) | ![Phone-UI-demonstration-video](https://user-images.githubusercontent.com/74983536/170837301-511d75b6-345d-433d-95e8-cb1ec750391d.gif) |
 
+## How to get started
+
+~~~bash
+git clone https://github.com/SayantaniDeb01/Snapshop
+~~~
 
 ## Installation
 
@@ -75,15 +84,19 @@ streamlit run main.py
 - Faced challenges during deployment of the app
 - It was my first time working with streamlit as a frontend and python as the backend.
 - It was tough to play around with streamlit considering its limited UI features.
+-  Git Lfs was disabled due to exceeding the limit while simultaneously deploying with the huge kaggle dataset.
+- Therefore it was not possible for the app to be deployed.
 
 
-## 🥇Accomplishments we are proud of
+## 🥇Accomplishments I am proud of
 - This was my first time working on a ML project ✨I DID IT✨
 - Got to learn a lot and a overall nice experience!
+- Made a new github account inorder to host the app in the streamlit server. [Link to the repo which is hosted in streamlit server](https://github.com/SayantaniDeb01/Snapshop)
 
 ## 🚀Future Scope
-- Can suggest garments/accesories after webscraping from the internet.
-- Enable payment gateway to directly purchase from the site.
+
+The future scope is to integrate the ecommerce sites like myntra and amazon so that it can show the available items with direct link to purchase which are similar to the photo uploaded . This was beyond the scope of this project since it requires web scraping .
+Current state of the project is a prototype , hoping to work on the future scope.
 
 
 ## 👩🏻‍💻Made By
